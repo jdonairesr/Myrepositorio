@@ -7,6 +7,6 @@ namespace BORRAR_LIBRERIA
 {
     public class Class1
     {
-        String var = "hola mundo";
+        String var = "hola mundo desde aqui";
     }
 }
